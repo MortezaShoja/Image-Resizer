@@ -1,0 +1,3 @@
+G:\Programing\VB.Net\My Project\Component\Image Resizer\ImageResizer\ImageResizer\obj\Debug\ResolveAssemblyReference.cache
+G:\Programing\VB.Net\My Project\Component\Image Resizer\ImageResizer\ImageResizer\obj\Debug\ImageResizer.Resources.resources
+G:\Programing\VB.Net\My Project\Component\Image Resizer\ImageResizer\ImageResizer\obj\Debug\ImageResizer.vbproj.GenerateResource.Cache
